@@ -1,0 +1,96 @@
+input,select{
+      width:140px;
+      height: 20px;
+      border: none;
+      outline: none;
+    }
+    .proform{
+      width:270px;
+      height: 20px;
+      border: none;
+      outline: none;
+    }
+    fieldset{
+           width:142px;
+           display:inline;
+           height: 30px;
+    }
+    
+    #des{
+     width:890px;
+      height: 60px;
+
+    }
+
+    textarea{
+      width: 800px;
+      height: 40px;
+      border: none;
+      outline: none;
+    }
+
+.sidebar {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+   z-index: 1;
+  top: 0;
+  left: 0px;
+  background-color: #f7f7f7;
+  overflow-x: hidden;
+  margin-top: 0px;
+  border-left: 1px solid grey;
+ box-shadow: 1px 0px 4px rgba(0, 0, 0, .5);
+  }
+
+ button{ 
+  padding: 6px 8px 6px 16px;
+  
+  font-size: 15px;
+  font-family:times new roman;
+  display: block;
+  border: none;
+  border-bottom: #00cc00;
+  color:#ffffff;
+  outline: none;
+  background:#81CF20;
+  width:100%;
+  text-align: left;
+  cursor: pointer;
+
+}
+
+.sidebar button:hover,a:hover{
+  font-style: bold;
+  color:black;
+}
+
+table{
+  border: none;
+    width:90%;
+}
+
+tr{
+  text-align: center;
+}
+#content{
+  padding-left: 20px;
+  padding-right: 20px;
+  border:none;
+  margin-left:192px;
+   margin-top:0px;
+   margin-bottom:-10px;
+   height:595px;
+   width:980px;
+
+}
+#cusdeet{
+  margin-left: 20px;
+  border: 1px;
+}
+
+a{
+margin:10px;
+text-decoration: none;
+
+}
